@@ -13,7 +13,7 @@ class Settings():
         self.bullets_allowed = 5
         self.fleet_drop_speed = 50  # Движение вниз, по оси у.
         self.speedup_scale = 1.1  # Тем роста скорости игры.
-        self.score_scale = 1.5  # Тем роста стоимости подьитого пришельца.
+        self.score_scale = 1.5  # Тем роста стоимости подбитого пришельца.
         self.aliens_points = 0
         self.initialize_dinamic_settings()
 
